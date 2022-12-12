@@ -1,0 +1,1 @@
+// implemtenting multiply func
